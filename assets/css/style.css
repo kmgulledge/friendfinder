@@ -1,0 +1,87 @@
+/** Here is the most amazingly awesome purple belt coding ninja CSS  **/
+
+
+/* Body 
+-------------------------------------------------- */
+
+body {
+    background-color: #8b9dc3;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    min-width: 960px;
+}
+
+.button {
+    background-color: #4CAF50;
+}
+
+.container-fluid {
+    margin-top: 100px;
+}
+
+.jumbotron {
+    background-color: #8b9dc3;
+}
+
+.btn btn-lg btn-primary {
+    vertical-align: left;
+}
+
+.chosen-select {
+    color: #3b5998;
+}
+
+
+/* Text style
+-------------------------------------------------- */
+
+h3 {
+    background-color: #8b9dc3;
+    text-align: left;
+    color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* Nav 
+-------------------------------------------------- */
+
+.navbar-inverse {
+    background-color: #3b5998;
+    border-color: #3b5998;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #ffffff;
+}
+
+
+/* Sticky footer styles
+  -------------------------------------------------- */
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #3b5998;
+    color: #ffffff;
+    text-align: center;
+}
+
+.text-muted {
+    color: #ffffff;
+}
+
+. a {
+    color: #ffffff;
+}
