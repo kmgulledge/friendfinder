@@ -1,9 +1,7 @@
-// ===============================================================================
-// DATA
-// Below data will hold all of the reserved tables.
-// Initially we just set it equal to a "dummy" customer.
-// But you could have it be an empty array as well.
-// ===============================================================================
+/* 
+Friends Data, Set to fake customers at first before 
+having people use the app to set their data. 
+*/
 var friends = [{
         "name": "Jake from state farm",
         "photo": "",
