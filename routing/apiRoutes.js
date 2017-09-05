@@ -5,12 +5,12 @@ var friends = require('../app/data/friends.js');
 module.exports = function(app) {
 
     // API GET Requests
-    app.get('../app/data/friends.js', function(req, res) {
+    app.get('/api/friends', function(req, res) {
         res.json(friends);
     });
 
     // API POST Requests
-    app.post('../app/data/friends.js', function(req, res) {
+    app.post('/api/friends', function(req, res) {
 
         //Comparing user with their best friend match 
 
